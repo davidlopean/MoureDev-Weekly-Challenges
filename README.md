@@ -6,7 +6,7 @@
 ![image](https://github.com/davidlopean/MoureDev-Weekly-Challenges/assets/141661643/27f53e29-ed2e-4141-a395-47f50b5b5f67)
 
 ## Listado de retos 2023
-0. ✅ EL FAMOSO "FIZZ BUZZ" | Soluciones: [[PYTHON](http://google.es)]
+0. ✅ EL FAMOSO "FIZZ BUZZ" | Soluciones: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/086082c4cac8523249ba9177d34c7ce6dca086a5/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py)]
 1. ⬜ EL "LENGUAJE HACKER" | Soluciones:
 2. ⬜ EL PARTIDO DE TENIS | Soluciones:
 3. ⬜ EL GENERADOR DE CONTRASEÑAS | Soluciones:
