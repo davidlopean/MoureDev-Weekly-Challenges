@@ -37,3 +37,5 @@ def fizzbuzz():
 #Llamada a la función
 fizzbuzz()
 ```
+
+[Volver a la página inicial del repositorio de retos](https://github.com/davidlopean/MoureDev-Weekly-Challenges/tree/main)
