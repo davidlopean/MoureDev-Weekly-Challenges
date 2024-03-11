@@ -7,7 +7,7 @@
 
 ## Listado de retos 2023
 0. ✅ EL FAMOSO "FIZZ BUZZ" | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/82680fc40f4d95028aec57a15aedfeb462339907/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/086082c4cac8523249ba9177d34c7ce6dca086a5/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py)]
-1. ✅ EL "LENGUAJE HACKER" | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/086082c4cac8523249ba9177d34c7ce6dca086a5/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/086082c4cac8523249ba9177d34c7ce6dca086a5/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py)]
+1. ✅ EL "LENGUAJE HACKER" | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/ee76a08f5dcd474e1e39b5d9812e7b38a99e030b/Retos/1%20-%20EL%20LENGUAJE%20HACKER/lenguaje_hacker.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/ee76a08f5dcd474e1e39b5d9812e7b38a99e030b/Retos/1%20-%20EL%20LENGUAJE%20HACKER/lenguaje_hacker.py)]
 2. ⬜ EL PARTIDO DE TENIS | Soluciones:
 3. ⬜ EL GENERADOR DE CONTRASEÑAS | Soluciones:
 4. ⬜ PRIMO, FIBONACCI Y PAR | Soluciones: 
