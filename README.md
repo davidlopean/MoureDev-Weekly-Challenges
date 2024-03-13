@@ -9,7 +9,7 @@
 0. ✅ EL FAMOSO "FIZZ BUZZ" | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/adce2f8c52c2c67bf70917a51c0e955d9f29ffda/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/086082c4cac8523249ba9177d34c7ce6dca086a5/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py)]
 1. ✅ EL "LENGUAJE HACKER" | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/ee76a08f5dcd474e1e39b5d9812e7b38a99e030b/Retos/1%20-%20EL%20LENGUAJE%20HACKER/lenguaje_hacker.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/ee76a08f5dcd474e1e39b5d9812e7b38a99e030b/Retos/1%20-%20EL%20LENGUAJE%20HACKER/lenguaje_hacker.py)]
 2. ✅ EL PARTIDO DE TENIS | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/d8f11c8d0ddb1bcbd52a60f4772a6ae9b135585f/Retos/2%20-%20EL%20PARTIDO%20DE%20TENIS/tenis.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/f4ab027275370c3daae5be7b11dc0cd912dbe99e/Retos/2%20-%20EL%20PARTIDO%20DE%20TENIS/tenis.py)]
-3. ⬜ EL GENERADOR DE CONTRASEÑAS | Soluciones:
+3. ✅ EL GENERADOR DE CONTRASEÑAS | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/2d56a39838cf9c261a65ba98c64a3c2485b3b806/Retos/3%20-%20GENERADOR%20DE%20CONTRASE%C3%91AS/generador_contrase%C3%B1as.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/a72fd886e4dd30abcc266233592b31f4bad83bb6/Retos/3%20-%20GENERADOR%20DE%20CONTRASE%C3%91AS/generador_contrase%C3%B1as.py)]
 4. ⬜ PRIMO, FIBONACCI Y PAR | Soluciones: 
 5. ⬜ HOLA MUNDO | Soluciones: 
 6. ⬜ PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK | Soluciones: 
