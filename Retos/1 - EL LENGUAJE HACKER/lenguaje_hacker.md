@@ -12,7 +12,7 @@ Este lenguaje se caracteriza por sustituir caracteres alfanuméricos.
 ## Soluciones
 #### Python (enlace al código: [código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/604d47d5e638d9c21371919f6ce980375ca734a5/Retos/1%20-%20EL%20LENGUAJE%20HACKER/lenguaje_hacker.py))
 
-```
+```python
 #Se declara la función que contiene el script 
 def hacker_language(string):
     #Se crea el diccionario con la clave:valor, donde clave es el caracter introducido en la frase y el valor es su homologo en lenguaje hacker (leet)
