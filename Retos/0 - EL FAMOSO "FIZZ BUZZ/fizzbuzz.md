@@ -14,9 +14,9 @@
 ```
 
 ## Soluciones
-#### Python (enlace al código: [[código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/e78fb8e2d76b83d67789c129aafb4c14eee18f14/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py)])
+#### Python (enlace al código: [código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/e78fb8e2d76b83d67789c129aafb4c14eee18f14/Retos/0%20-%20EL%20FAMOSO%20%22FIZZ%20BUZZ/fizzbuzz-python.py))
 
-```
+```python
 #Se crea una función que contiene el script para el programa "Fizzbuzz"
 def fizzbuzz():
     #Bucle 'for' que, a través de la variable 'i', va a generar números de 0 al 100, en pasos de 1 en 1
