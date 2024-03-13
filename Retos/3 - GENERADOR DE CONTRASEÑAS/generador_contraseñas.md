@@ -13,7 +13,7 @@ Podrás configurar generar contraseñas con los siguientes parámetros:
 ```
 
 ## Soluciones
-#### Python (enlace al código: [código]())
+#### Python (enlace al código: [código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/a72fd886e4dd30abcc266233592b31f4bad83bb6/Retos/3%20-%20GENERADOR%20DE%20CONTRASE%C3%91AS/generador_contrase%C3%B1as.py))
 
 ```
 #Se importa la libreria 'random' para usarla a la hora de generar las contraseñas
