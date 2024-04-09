@@ -11,7 +11,7 @@
 2. ✅ EL PARTIDO DE TENIS | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/d8f11c8d0ddb1bcbd52a60f4772a6ae9b135585f/Retos/2%20-%20EL%20PARTIDO%20DE%20TENIS/tenis.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/f4ab027275370c3daae5be7b11dc0cd912dbe99e/Retos/2%20-%20EL%20PARTIDO%20DE%20TENIS/tenis.py)]
 3. ✅ EL GENERADOR DE CONTRASEÑAS | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/2d56a39838cf9c261a65ba98c64a3c2485b3b806/Retos/3%20-%20GENERADOR%20DE%20CONTRASE%C3%91AS/generador_contrase%C3%B1as.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/a72fd886e4dd30abcc266233592b31f4bad83bb6/Retos/3%20-%20GENERADOR%20DE%20CONTRASE%C3%91AS/generador_contrase%C3%B1as.py)]
 4. ✅ PRIMO, FIBONACCI Y PAR | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/f0d1f0471ee97122049ae9b89b05891754b9e00e/Retos/4%20-%20PRIMO%2C%20FIBONACCI%20Y%20PAR/primo_fibonacci_par.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/f0d1f0471ee97122049ae9b89b05891754b9e00e/Retos/4%20-%20PRIMO%2C%20FIBONACCI%20Y%20PAR/primo_fibonacci_par.py)] 
-5. ⬜ HOLA MUNDO | Soluciones: 
+5. ✅ HOLA MUNDO | [[SOLUCIONES](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/27ac5807445dc33b38a6a2bf2cb2354ad503b78c/Retos/5%20-%20HOLA%20MUNDO/hola_mundo.md)]: [[PYTHON](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/65b6aec5ea6bded3cda6cbe539e316b164f58545/Retos/5%20-%20HOLA%20MUNDO/hola_mundo.py)] 
 6. ⬜ PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK | Soluciones: 
 7. ⬜ EL SOMBRERO SELECCIONADOR | Soluciones:
 8. ⬜ EL GENERADOR PSEUDOALEATORIO | Soluciones: 
