@@ -10,7 +10,7 @@ A ver quién se atreve con uno de esos lenguajes que no solemos ver por ahí...
 ```
 
 ## Soluciones
-#### Python (enlace al código: [código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/90c14c44011958982548cbe58449a94bfe4d5e98/Retos/4%20-%20PRIMO%2C%20FIBONACCI%20Y%20PAR/primo_fibonacci_par.py))
+#### Python (enlace al código: [código](https://github.com/davidlopean/MoureDev-Weekly-Challenges/blob/65b6aec5ea6bded3cda6cbe539e316b164f58545/Retos/5%20-%20HOLA%20MUNDO/hola_mundo.py))
 
 ```python
 # Se crea la función que imprimirá por pantalla el texto que queramos cuando llamemos a la función.
